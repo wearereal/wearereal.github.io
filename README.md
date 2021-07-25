@@ -1,30 +1,21 @@
-Our team uses innovative analytics to better understand health and care in the UK. Our work provides new insights to help decision makers improve health care quality and outcomes, and tackle health inequalities. Read more about our work at [the Health Foundation](https://www.health.org.uk/what-we-do/quality-and-data-analytics/in-house-data-analytics). On [GitHub](https://github.com/HFAnalyticsLab) we collect and share resources and code from our work. 
+Our team uses xxxx to better understand xxxx in the UK. Our work provides new insights to help xxxx. Read more about our work at [HFoundation](https://www.health.org.uk). On [GitHub](https://github.com) where we collect and share resources and code from our work. 
 
 ## Team members and collaborators
 Projects are completed by members of the lab, often with collaborators.  
 
 **Members of the team**  
 
-* Sarah Deeny, PhD - [GitHub](https://github.com/sarahdTHF) / [Twitter](https://twitter.com/SarahDeeny)
-* Kathryn Dreyer - [GitHub](https://github.com/kathdreyer) / [Twitter](https://twitter.com/kathrynadreyer)
-* Mai Stafford, PhD - [GitHub](https://github.com/maistafford) / [Twitter](https://twitter.com/stafford_xm)
-* Fiona Grimm, PhD - [GitHub](https://github.com/fiona-grimm) / [Twitter](https://twitter.com/fiona_grimm)
-* Hannah Knight, PhD - [Twitter](https://twitter.com/HannahEllin)
-* Rachel Tesfaye - [Twitter](https://twitter.com/RachelETesfaye)
-* Olivia Ross-Hurst 
-* Jorgen Engmann - [Twitter](https://twitter.com/EngmannJorgen)
-* Sebastien Peytrignet - [GitHub](https://github.com/speytrignet-thf) / [Twitter](https://twitter.com/SebastienPeytr2)
-* Jay Hughes - [GitHub](https://github.com/Jay-ops256)
-* Yannis Kotrotsios
+* Person A - [GitHub](https://github.com) / [Twitter](https://twitter.com)
+* Person B - [GitHub](https://github.com) / [Twitter](https://twitter.com)
+* Person C - [GitHub](https://github.com) / [Twitter](https://twitter.com)
+* Person rD- [GitHub](https://github.com) / [Twitter](https://twitter.com)
 
-**Collaborators and former members**  
-* Karen Hodgson, PhD - [GitHub](https://github.com/KarenHodgson) / [Twitter](https://twitter.com/KarenHodgePodge)
-* Richard Welpton - [Twitter](https://twitter.com/rwelpton)
-* Toby Rubenstein - [GitHub](https://github.com/trubens71)
-* Meetali Kakad, MD - [Twitter](https://twitter.com/tali_md)
-* Will Parry, PhD - [Twitter](https://twitter.com/DrWillParry)
-* Issac Barker - [Twitter](https://twitter.com/isaacbarker)
-* Rocco Friebel, PhD - [Twitter](https://twitter.com/r_friebel)
+**Collaborators and former members** 
+ 
+* Person A - [GitHub](https://github.com) / [Twitter](https://twitter.com)
+* Person B - [GitHub](https://github.com) / [Twitter](https://twitter.com)
+* Person C - [GitHub](https://github.com) / [Twitter](https://twitter.com)
+* Person D - [GitHub](https://github.com) / [Twitter](https://twitter.com)
 
 
 ## Approach to working openly  
@@ -44,4 +35,4 @@ Our work may be published in the format of a blog, a Health Foundation briefing,
 ## Contact us
 For more information on any of the projects please contact the contributor. 
 
-If you want to know more about the Health Foundation [Analytics Lab](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team) please contact [Sarah Deeny, Assistant Director of Data Analytics](https://www.health.org.uk/about-the-health-foundation/our-people/data-analytics-team/sarah-deeny) who leads the team, and can be found on twitter [@SarahDeeny ](https://twitter.com/SarahDeeny) or you can contact us via [GitHub](https://github.com/HFAnalyticsLab).
+If you want to know more about the HF [REAL](https://www.health.org.uk) please contact [Person A](https://www.health.org.uk/about-the-health-foundation) who leads the team, and can be found on twitter [Person A ](https://twitter.com) or you can contact us via [GitHub](https://github.com).

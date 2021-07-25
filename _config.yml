@@ -2,11 +2,11 @@ theme: jekyll-theme-minimal
 
 logo: THF_Roundel_whitecentre.png
 
-title: Health Foundation Analytics Lab
+title: H Foundation REAL
 description: "Resources and code: "
 
 baseurl: 
 url: 
 
 # Google Analytics
-google_analytics: G-9WTK7S5JYD
+# google_analytics: G-9WTK7S5JYD
