@@ -8,7 +8,7 @@ Projects are completed by members of the lab, often with collaborators.
 * Person A - [GitHub](https://github.com) / [Twitter](https://twitter.com)
 * Person B - [GitHub](https://github.com) / [Twitter](https://twitter.com)
 * Person C - [GitHub](https://github.com) / [Twitter](https://twitter.com)
-* Person rD- [GitHub](https://github.com) / [Twitter](https://twitter.com)
+* Person D- [GitHub](https://github.com) / [Twitter](https://twitter.com)
 
 **Collaborators and former members** 
  
